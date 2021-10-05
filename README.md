@@ -23,11 +23,10 @@ The `IDE` you will be using for this class is `Visual Studio Code (VS Code)` by 
 [Visual Studio Code](https://code.visualstudio.com/)
 
 ## Common Developer Tools
-You will need familiarity with the following tools, which are all integrated in `VS Code`.
+You will need familiarity with the following tools.
 
 - [GitHub](https://github.com/)
 - [Markdown](https://guides.github.com/features/mastering-markdown/)
-- [Python Extension](https://code.visualstudio.com/docs/languages/python)
 
 ## Setup
 
