@@ -6,7 +6,7 @@ We will be using the `Python` programming language to cover this course.
 
 [Python](https://www.python.org/) is an **interpreted**, **object-oriented**, **high-level** programming language.
 
-## Setting Up Your Environment
+## Set Up Your Environment
 
 You will need access to a Unix-based operating system for this class.
 - **macOS** is UNIX compliant
