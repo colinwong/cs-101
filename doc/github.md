@@ -1,4 +1,4 @@
-# Creating a Github Project
+# Creat Your Github Project
 
 - Create a new repository in Github.
 - Enter `intc-3083` for your repository name.

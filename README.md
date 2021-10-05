@@ -13,14 +13,14 @@ You will need access to a Unix-based operating system for this class.
 - **Linux** (any variant i.e. Ubuntu)
 - **Windows** using `WSL (Windows Subsystem for Linux)`
 
-See [Setting Up Your Windows environment](doc/windows.md) if you are using a PC.
+See [Setting Up Your Windows Environment](doc/windows.md) if you are using a PC.
 
 ## IDE
 The **Integrated Development Environment (IDE)** is a **software application** you use to write code. It has the advantage of combining many developer tools into a single **User Interface (UI)** for convenience and efficiency.
 
 The **IDE** you will be using for this class is `Visual Studio Code (VS Code)` by Microsoft. `VS Code` is available on Windows, Mac, and Linux. It is **free**, **open source**, and has **extensions** that enable you to write code in different programming languages including `C`, `C++`, `C#`, `Java`, `Javascript`, `PHP`, `HTML`, `CSS`, `Python`, and more.
 
-[Learn about Visual Studio Code](https://code.visualstudio.com/)
+[Learn About Visual Studio Code](https://code.visualstudio.com/)
 
 ## Common Concepts & Tools
 During this course you will need familiarity with the following:
@@ -32,5 +32,5 @@ During this course you will need familiarity with the following:
 
 ## Getting Started
 
-[Creating a Github project](doc/github.md)
+[Create Your Github Project](doc/github.md)
 [Getting Started with Python in VS Code](https://code.visualstudio.com/docs/python/python-tutorial)
