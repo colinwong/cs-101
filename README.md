@@ -16,7 +16,7 @@ You will need access to a Unix-based operating system for this class.
 See [Setting Up Your Windows environment](doc/windows.md) if you are using a PC.
 
 ## IDE
-The `Integrated Development Environment (IDE)` is a **software application** you use to write code. It has the advantage of combining many developer tools into a single `User Interface (UI)` for convenience and efficiency.
+The **Integrated Development Environment (IDE)** is a **software application** you use to write code. It has the advantage of combining many developer tools into a single **User Interface (UI)** for convenience and efficiency.
 
 The **IDE** you will be using for this class is `Visual Studio Code (VS Code)` by Microsoft. `VS Code` is available on Windows, Mac, and Linux. It is **free**, **open source**, and has **extensions** that enable you to write code in different programming languages including `C`, `C++`, `C#`, `Java`, `Javascript`, `PHP`, `HTML`, `CSS`, `Python`, and more.
 
