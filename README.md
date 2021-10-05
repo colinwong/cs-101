@@ -22,12 +22,14 @@ The `IDE` you will be using for this class is `Visual Studio Code (VS Code)` by 
 
 [Visual Studio Code](https://code.visualstudio.com/)
 
-## Common Developer Tools
-During this course you will need familiarity with the following tools.
+## Common Concepts & Tools
+During this course you will need familiarity with the following:
 
 - [GitHub](https://github.com/)
 - [Markdown](https://guides.github.com/features/mastering-markdown/)
+- [PyPI](https://pypi.org/project/pip/)
+- [JSON](https://www.programiz.com/python-programming/json)
 
-## Setup
+## Getting Started
 
 [Getting Started with Python in VS Code](https://code.visualstudio.com/docs/python/python-tutorial)
