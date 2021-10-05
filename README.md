@@ -32,4 +32,5 @@ During this course you will need familiarity with the following:
 
 ## Getting Started
 
+[Creating a Github project](doc/github.md)
 [Getting Started with Python in VS Code](https://code.visualstudio.com/docs/python/python-tutorial)
