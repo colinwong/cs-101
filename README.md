@@ -1,4 +1,4 @@
-# CS 101 - Introduction to Programming
+# INTC 3083 - Computer Programming I
 
 We will be using the `Python` programming language to cover this course.
 
