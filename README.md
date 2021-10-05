@@ -32,5 +32,5 @@ During this course you will need familiarity with the following:
 
 ## Getting Started
 
-[Create Your Github Project](doc/github.md)
-[Getting Started with Python in VS Code](https://code.visualstudio.com/docs/python/python-tutorial)
+1. [Create Your Github Project](doc/github.md)
+2. [Getting Started with Python in VS Code](https://code.visualstudio.com/docs/python/python-tutorial)
