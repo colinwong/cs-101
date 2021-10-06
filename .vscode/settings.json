@@ -8,6 +8,6 @@
     "test"
   ],
   "python.analysis.extraPaths": [
-    "./class/02_testing"
+    "./class"
   ]
 }

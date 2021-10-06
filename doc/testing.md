@@ -5,7 +5,7 @@
 1. Create `.env` in your workspace folder and edit it:
 
    ```
-   PYTHONPATH = "class/put/your/subdirectories/here"
+   PYTHONPATH = "class"
    ```
   
 2. Edit `.vscode/settings.json` and add:

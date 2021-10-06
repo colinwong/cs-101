@@ -1,6 +1,6 @@
-# Python environment
+# Python
 .venv
-
-# Pytest files
-.pytest_cache
 __pycache__
+
+# Pytest
+.pytest_cache
