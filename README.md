@@ -38,14 +38,33 @@ You will develop familiarity with the following:
 ## Schedule
 
 1. Introduction
-   1. Visual Studio Code
-   2. Github
-   3. Python
-   4. PyTest
+   1. Programming Languages
+   2. Python
+   3. Getting Started
 
 2. Data Types & Control Structure
    1. Operators
-   2. Data types, variables, expressions, statements
-   3. Assignment
-   4. String operations
-   5. Control structures: loops & decisions
+   2. Data Types, Variables, Expressions, Statements
+   3. Assignments
+   4. String Operations
+   5. Decisions & Loops
+
+3. Modularization & Classes
+   1. Functions
+   2. Classes
+   3. Packages
+   4. Standard Modules
+
+4. Data Structures & Exceptions
+   1. Array, List, Dictionary
+   2. Error Handling
+   3. Exception Raising
+
+5. Object Oriented Design
+   1. Programming Types
+   2. Classes & Objects
+   3. Encapsulation
+   4. Inheritance
+   5. Abstraction
+   6. Polymorphism
+
