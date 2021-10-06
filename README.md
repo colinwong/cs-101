@@ -34,3 +34,4 @@ During this course you will need familiarity with the following:
 
 1. [Create Your Github Project](doc/github.md)
 2. [Getting Started with Python in VS Code](https://code.visualstudio.com/docs/python/python-tutorial)
+3. [Setting Up Your Test Environment](doc/testing.md)

@@ -1,4 +1,13 @@
 {
+  "python.envFile": "${workspaceFolder}/.env",
   "python.linting.pylintEnabled": true,
-  "python.linting.enabled": true
+  "python.linting.enabled": true,
+  "python.testing.unittestEnabled": false,
+  "python.testing.pytestEnabled": true,
+  "python.testing.pytestArgs": [
+    "test"
+  ],
+  "python.analysis.extraPaths": [
+    "./class/02_testing"
+  ]
 }
