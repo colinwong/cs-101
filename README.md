@@ -8,7 +8,7 @@ We will be using the `Python` programming language for this course.
 
 ## IDE
 
-We will use `Visual Studio Code (VS Code)` to write our code. `VS Code` is available on `Windows` / `Mac` / `Linux`, and is **free**, **open-source**, and covers many programming languages including `C`, `C++`, `C#`, `Java`, `Javascript`, `PHP`, `HTML`, `CSS`, `Python`, and more.
+We will use `Visual Studio Code (VS Code)` to write our code. `VS Code` is available on `Windows` / `Mac` / `Linux`, and is **free**, **open source**, and covers many programming languages including `C`, `C++`, `C#`, `Java`, `Javascript`, `PHP`, `HTML`, `CSS`, `Python`, and more.
 
 [Learn About Visual Studio Code](https://code.visualstudio.com/)
 
