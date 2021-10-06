@@ -30,3 +30,22 @@ You will develop familiarity with the following:
 2. [Create Your Github Project](doc/github.md)
 3. [Getting Started with Python in VS Code](https://code.visualstudio.com/docs/python/python-tutorial)
 4. [Setting Up Your Python Environment](doc/setup.md)
+
+## Reference
+
+- [Learn Python Programming](https://www.programiz.com/python-programming)
+
+## Schedule
+
+1. Introduction
+   1. Visual Studio Code
+   2. Github
+   3. Python
+   4. PyTest
+
+2. Data Types & Control Structure
+   1. Operators
+   2. Data types, variables, expressions, statements
+   3. Assignment
+   4. String operations
+   5. Control structures: loops & decisions
