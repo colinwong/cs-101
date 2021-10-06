@@ -1,4 +1,4 @@
-# Setting Up Your Test Environment
+# Setting Up Your Python Environment
 
 ## Environment
 
