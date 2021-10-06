@@ -8,12 +8,12 @@ We will be using the `Python` programming language to cover this course.
 
 ## IDE
 
-We will be using `Visual Studio Code (VS Code)` by Microsoft as our [IDE](https://www.codecademy.com/articles/what-is-an-ide). `VS Code` is available on Windows, Mac, and Linux. It is **free**, **open source**, and has **extensions** that enable you to write code in different programming languages including `C`, `C++`, `C#`, `Java`, `Javascript`, `PHP`, `HTML`, `CSS`, `Python`, and more.
+We will be using `Visual Studio Code (VS Code)` to write our code. `VS Code` is available on `Windows` / `Mac` / `Linux`, and is **free**, **open-source**, and enables you to write code in many programming languages including `C`, `C++`, `C#`, `Java`, `Javascript`, `PHP`, `HTML`, `CSS`, `Python`, and more.
 
 [Learn About Visual Studio Code](https://code.visualstudio.com/)
 
 ## Common Concepts & Tools
-During this course you will develop familiarity with the following:
+You will develop familiarity with the following:
 
 - [GitHub](https://github.com/)
 - [Markdown](https://guides.github.com/features/mastering-markdown/)
