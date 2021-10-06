@@ -6,15 +6,6 @@ We will be using the `Python` programming language to cover this course.
 
 [Python](https://www.python.org/) is an **interpreted**, **object-oriented**, **high-level** programming language.
 
-## Operating System Considerations
-
-You will need access to a Unix-based operating system for this class.
-- **macOS** is UNIX compliant
-- **Linux** (any variant i.e. Ubuntu)
-- **Windows** using `WSL (Windows Subsystem for Linux)`
-
-See [Setting Up Your Windows Environment](doc/windows.md) if you are using a PC.
-
 ## IDE
 The **Integrated Development Environment (IDE)** is a **software application** you use to write code. It has the advantage of combining many developer tools into a single **User Interface (UI)** for convenience and efficiency.
 
