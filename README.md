@@ -68,3 +68,5 @@ You will develop familiarity with the following:
    5. Abstraction
    6. Polymorphism
 
+6. Final Project
+
