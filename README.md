@@ -60,7 +60,7 @@ You will develop familiarity with the following:
    2. Error Handling
    3. Exception Raising
 
-5. Object Oriented Design
+5. [Object Oriented Programming](https://www.educative.io/blog/object-oriented-programming)
    1. Programming Types
    2. Classes & Objects
    3. Encapsulation
