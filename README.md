@@ -10,9 +10,9 @@ We will be using the `Python` programming language for this course.
 
 We will use `Visual Studio Code (VS Code)` to write our code.
 
-- available on `Windows`, `Mac`, `Linux`
-- free & open source
-- supports `C`, `C++`, `C#`, `Java`, `Javascript`, `PHP`, `HTML`, `CSS`, `Python`, and more.
+- Available on `Windows`, `Mac`, `Linux`
+- Free & open source
+- Supports `C`, `C++`, `C#`, `Java`, `Javascript`, `PHP`, `HTML`, `CSS`, `Python`, and more.
 
 [Learn About Visual Studio Code](https://code.visualstudio.com/)
 
