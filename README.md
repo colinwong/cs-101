@@ -4,21 +4,20 @@ We will be using the `Python` programming language to cover this course.
 
 ## Python Programming Language
 
-[Python](https://www.python.org/) is an **interpreted**, **object-oriented**, **high-level** programming language.
+[Python](https://www.python.org/) is an [interpreted](https://www.geeksforgeeks.org/difference-between-compiled-and-interpreted-language/), [object-oriented](https://searchapparchitecture.techtarget.com/definition/object-oriented-programming-OOP), [high-level](https://www.webopedia.com/definitions/high-level-language/) programming language.
 
 ## IDE
-The **Integrated Development Environment (IDE)** is a **software application** you use to write code. It has the advantage of combining many developer tools into a single **User Interface (UI)** for convenience and efficiency.
 
-The **IDE** for this class is `Visual Studio Code (VS Code)` by Microsoft. `VS Code` is available on Windows, Mac, and Linux. It is **free**, **open source**, and has **extensions** that enable you to write code in different programming languages including `C`, `C++`, `C#`, `Java`, `Javascript`, `PHP`, `HTML`, `CSS`, `Python`, and more.
+We will be using `Visual Studio Code (VS Code)` by Microsoft as our [IDE](https://www.codecademy.com/articles/what-is-an-ide). `VS Code` is available on Windows, Mac, and Linux. It is **free**, **open source**, and has **extensions** that enable you to write code in different programming languages including `C`, `C++`, `C#`, `Java`, `Javascript`, `PHP`, `HTML`, `CSS`, `Python`, and more.
 
 [Learn About Visual Studio Code](https://code.visualstudio.com/)
 
 ## Common Concepts & Tools
-During this course you will need familiarity with the following:
+During this course you will develop familiarity with the following:
 
 - [GitHub](https://github.com/)
 - [Markdown](https://guides.github.com/features/mastering-markdown/)
-- [PyPI](https://pypi.org/project/pip/)
+- [PyPI (pip)](https://pypi.org/project/pip/)
 - [JSON](https://www.programiz.com/python-programming/json)
 
 ## Getting Started
