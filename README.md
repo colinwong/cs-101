@@ -8,7 +8,7 @@ We will be using the `Python` programming language for this course.
 
 ## IDE
 
-We will use `Visual Studio Code (VS Code)` to write our code.
+We will use `Visual Studio Code (VS Code)` to write our code. Advantages include:
 
 - Available on `Windows`, `Mac`, `Linux`
 - Free & open source
@@ -16,13 +16,12 @@ We will use `Visual Studio Code (VS Code)` to write our code.
 
 [Learn About Visual Studio Code](https://code.visualstudio.com/)
 
-## Common Concepts & Tools
-You will develop familiarity with the following:
+## Other Tools
+You will also develop familiarity with the following tools:
 
 - [GitHub](https://github.com/)
 - [Markdown](https://guides.github.com/features/mastering-markdown/)
 - [PyPI (pip)](https://pypi.org/project/pip/)
-- [JSON](https://www.programiz.com/python-programming/json)
 
 ## Getting Started
 
