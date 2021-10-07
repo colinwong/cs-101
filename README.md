@@ -35,4 +35,7 @@ You will develop familiarity with the following:
 
 - [Learn Python Programming](https://www.programiz.com/python-programming)
 - [Object Oriented Programming](https://www.educative.io/blog/object-oriented-programming)
+
+## Syllabus
+
 - [Course Schedule](doc/schedule.md)
