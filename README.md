@@ -31,11 +31,11 @@ You will develop familiarity with the following:
 3. [Getting Started with Python in VS Code](https://code.visualstudio.com/docs/python/python-tutorial)
 4. [Setting Up Your Python Environment](doc/setup.md)
 
+## Syllabus
+
+- [Course Schedule](doc/schedule.md)
+
 ## Reference
 
 - [Learn Python Programming](https://www.programiz.com/python-programming)
 - [Object Oriented Programming](https://www.educative.io/blog/object-oriented-programming)
-
-## Syllabus
-
-- [Course Schedule](doc/schedule.md)
