@@ -38,4 +38,5 @@ You will develop familiarity with the following:
 ## Reference
 
 - [Learn Python Programming](https://www.programiz.com/python-programming)
+- [The Python Tutorial](https://docs.python.org/3/tutorial/)
 - [Object Oriented Programming](https://www.educative.io/blog/object-oriented-programming)
