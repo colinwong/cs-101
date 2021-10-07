@@ -23,7 +23,7 @@
 5. Standard Modules
 6. Debugging
 
-## Week 4 - First Project (Internet)
+## Week 4 - First Project
 1. HTTP, APIs, & REST
 2. Request Module
 3. Stock Quote Project
