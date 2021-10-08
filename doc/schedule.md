@@ -25,7 +25,7 @@
 
 ## Week 4 - Stock Quote Project
 1. HTTP, APIs, & REST
-2. Request Module
+2. Requests Module
 3. Stock Quote Project
 
 ## Week 5: Data Structures
@@ -52,7 +52,8 @@
 
 ## Week 8 - Encapsulation
 1. Classes & Objects
-2. Encapsulation
+2. Abstraction & Encapsulation
+3. Interfaces
 
 ## Week 9 - Advance Functions
 1. Recursion
@@ -64,7 +65,8 @@
 3. JSON
 
 ## Week 11 - Bible Quote Project
-1. Bible Quote Project
+1. Cmd Module
+2. Bible Quote Project
 
 ## Week 12 - Bible Quote Project
 1. Open Lab
