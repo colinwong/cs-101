@@ -23,7 +23,7 @@
 5. Standard Modules
 6. Debugging
 
-## Week 4 - First Project
+## Week 4 - Stock Quote Project
 1. HTTP, APIs, & REST
 2. Request Module
 3. Stock Quote Project
@@ -34,31 +34,48 @@
 3. Tuple
 4. Set
 5. Dictionary
+6. Extend Stock Quote Project
 
 ## Week 6 - Exception Handling & Testing
 1. Exceptions
 2. Error Handling
 3. Testing & Assertions
 4. Test Framework
+5. Extend Stock Quote Project
 
-## Week 7 - Second Project
-1. JSON
+## Week 7 - Design Principles
+1. [KISS](https://dzone.com/articles/software-design-principles-dry-and-kiss)
+2. [DRY](https://dzone.com/articles/software-design-principles-dry-and-kiss)
+4. Improve Stock Quote Project
+
+`Due: Stock Quote Project`
+
+## Week 8 - Encapsulation
+1. Classes & Objects
+2. Encapsulation
+
+## Week 9 - Advance Functions
+1. Recursion
+2. First-Class & Higher-Order
+
+## Week 10 - Data Manipulation
+1. File Manipulation
 2. Regular Expressions
-3. Bible Quote Project
+3. JSON
 
-## Week 8 - OOP 1
+## Week 11 - Bible Quote Project
+1. Bible Quote Project
 
-1. Programming Types
-2. Classes & Objects
-3. Encapsulation
+## Week 12 - Bible Quote Project
+1. Open Lab
 
-## Week 9 - OOP 2
+## Week 13 - Bible Quote Project
+1. Open Lab
 
-1. Inheritance
-2. Abstraction
-3. Polymorphism
+## Week 14 - Bible Quote Project
+1. Open Lab
 
-## Week 10 - Third Project
-1. 
+`Due: Bible Quote Project`
 
-## Week 11 - 
+## Week 15 - Finals
+1. Class exam
