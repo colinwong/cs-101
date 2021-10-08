@@ -50,14 +50,15 @@
 
 `Due: Stock Quote Project`
 
-## Week 8 - Encapsulation
+## Week 8 - Basic Object-Oriented Programming
 1. Classes & Objects
 2. Abstraction & Encapsulation
 3. Interfaces
 
-## Week 9 - Advance Functions
+## Week 9 - Basic Functional Programming
 1. Recursion
-2. First-Class & Higher-Order
+2. First-Class Functions
+3. Higher-Order Functions
 
 ## Week 10 - Data Manipulation
 1. File Manipulation
