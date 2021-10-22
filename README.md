@@ -11,7 +11,8 @@ Learn programming with `Python`.
 We will use [Google Colab](https://research.google.com/colaboratory/) for in-class learning.
 
 - No setup required.
-- Instant feedback on tasks.
+- Completely online.
+- Instant feedback on learning.
 - Free.
 
 ## Project IDE
