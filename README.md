@@ -1,20 +1,26 @@
-# INTC 3083 - Computer Programming I
+# Computer Programming I
 
-We will be using the `Python` programming language for this course.
+Learn programming with `Python`.
 
 ## Python Programming Language
 
 [Python](https://www.python.org/) is an [interpreted](https://www.geeksforgeeks.org/difference-between-compiled-and-interpreted-language/), [object-oriented](https://searchapparchitecture.techtarget.com/definition/object-oriented-programming-OOP), [high-level](https://www.webopedia.com/definitions/high-level-language/) programming language.
 
-## IDE
+## Class IDE
 
-We will use `Visual Studio Code (VS Code)` to write our code. Advantages include:
+We will use [Google Colab](https://research.google.com/colaboratory/) for in-class learning.
 
-- Available on `Windows`, `Mac`, `Linux`
-- Free & open source
+- No setup required.
+- Instant feedback on tasks.
+- Free.
+
+## Project IDE
+
+We will use [Visual Studio Code (VS Code)](https://code.visualstudio.com/) for projects.
+
+- Available on `Windows`, `Mac`, `Linux`.
 - Supports `C`, `C++`, `C#`, `Java`, `Javascript`, `PHP`, `HTML`, `CSS`, `Python`, and more.
-
-[Learn About Visual Studio Code](https://code.visualstudio.com/)
+- Free & open source.
 
 ## Other Tools
 You will also develop familiarity with the following tools:
