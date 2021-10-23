@@ -4,6 +4,7 @@
 1. High-level programming
 2. Python programming language
 3. Getting started
+   * Google Colab
    * Visual Studio Code
    * Github
    * Hello world
