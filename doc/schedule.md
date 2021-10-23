@@ -21,6 +21,7 @@
 3. Functions
 4. Packages
 5. Standard Modules
+   - help() function
 6. Debugging
 
 ## Week 4 - Stock Quote Project
@@ -52,6 +53,7 @@
 
 ## Week 8 - Basic Object-Oriented Programming
 1. Classes & Objects
+   - id() function
 2. Abstraction & Encapsulation
 3. Interfaces
 
