@@ -25,7 +25,7 @@
    - help() function
 6. Debugging
 
-## Week 4 - Stock Quote Project
+## Week 4 - Movie Quote Project
 1. HTTP, APIs, & REST
 2. Requests Module
 3. Movie Quote Project
