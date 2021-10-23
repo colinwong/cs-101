@@ -51,7 +51,7 @@
 2. [DRY](https://dzone.com/articles/software-design-principles-dry-and-kiss)
 4. Improve Movie Quote Project
 
-`Due: Stock Quote Project`
+`Due: Movie Quote project`
 
 ## Week 8 - Basic Object-Oriented Programming
 1. Classes & Objects
