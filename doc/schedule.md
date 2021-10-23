@@ -28,7 +28,8 @@
 ## Week 4 - Stock Quote Project
 1. HTTP, APIs, & REST
 2. Requests Module
-3. Stock Quote Project
+3. Movie Quote Project
+   - [themoviedb.org](themoviedb.org) server
 
 ## Week 5: Data Structures
 1. Array
@@ -36,19 +37,19 @@
 3. Tuple
 4. Set
 5. Dictionary
-6. Extend Stock Quote Project
+6. Extend Movie Quote Project
 
 ## Week 6 - Exception Handling & Testing
 1. Exceptions
 2. Error Handling
 3. Testing & Assertions
 4. Test Framework
-5. Extend Stock Quote Project
+5. Extend Movie Quote Project
 
 ## Week 7 - Design Principles
 1. [KISS](https://dzone.com/articles/software-design-principles-dry-and-kiss)
 2. [DRY](https://dzone.com/articles/software-design-principles-dry-and-kiss)
-4. Improve Stock Quote Project
+4. Improve Movie Quote Project
 
 `Due: Stock Quote Project`
 
