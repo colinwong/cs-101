@@ -11,6 +11,7 @@
 ## Week 2: Data Types & Control Structure
 1. Operators
 2. Data Types
+   - type() function
 3. Variables, Expressions, Statements
 4. Assignments
 5. Decisions & Loops
