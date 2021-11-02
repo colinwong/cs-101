@@ -1,4 +1,4 @@
-# Computer Science I
+# Computer Programming I
 
 Learn programming with `Python`.
 
