@@ -15,7 +15,6 @@
 ## Week 3 - Data Types & Control Structure (January 24th)
 1. Operators
 2. Data types
-   - type() function
 3. Variables, expressions, statements
 4. Assignments
 5. Decisions & loops
@@ -24,6 +23,7 @@
 1. Strings
 2. Comments
 3. Functions
+   - type() function
 4. Packages
 5. Standard modules
    - help() function
