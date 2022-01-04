@@ -37,10 +37,6 @@ You will also develop familiarity with the following tools:
 3. [Getting Started with Python in VS Code](https://code.visualstudio.com/docs/python/python-tutorial)
 4. [Setting Up Your Python Environment](doc/setup.md)
 
-## Syllabus
-
-- [Course Schedule](doc/schedule.md)
-
 ## Reference
 
 - [Learn Python Programming](https://www.programiz.com/python-programming)
